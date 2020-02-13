@@ -1,3 +1,5 @@
+package ru.stqa.pft.sandbox;
+
 public class Point {
     public double x, y;
     public static double oneMoreDistance(Point p1, Point p2) {
